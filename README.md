@@ -1,4 +1,6 @@
 # Wk-1-Python-Assignment
+
+
 # Step 1: Create an empty list
 my_list = []
 
